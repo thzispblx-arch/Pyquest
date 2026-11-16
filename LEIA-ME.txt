@@ -1,0 +1,17 @@
+PYQUEST — APRENDA PYTHON JOGANDO
+
+Como abrir:
+1. Extraia o arquivo ZIP (se estiver usando o ZIP).
+2. Abra o arquivo index.html em um navegador atualizado (Chrome, Edge, Firefox ou Safari).
+3. O site funciona localmente para aulas, trilhas, exercícios, progresso, plano de estudos e simulado.
+4. O Laboratório executa Python de verdade pelo Pyodide e precisa de conexão com a internet na primeira execução para carregar o interpretador.
+
+Seu progresso fica salvo no armazenamento local do navegador, neste aparelho.
+
+Conteúdo baseado nas imagens enviadas:
+- Aula 10: Introdução ao uso de listas.
+- Aula 11: Métodos de uma lista.
+- Aula 12: Funções (o material enviado mostra o título da aula).
+- Aula 13: Funções recursivas, caso base, passo recursivo, fatorial, pilha de chamadas, inversão de texto e quando usar recursão.
+
+Também foram adicionados tópicos complementares de fundamentos de Python para revisão: variáveis, tipos, print, input, conversões, operadores, condições, for, while, strings, contadores e acumuladores.
